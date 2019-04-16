@@ -1,6 +1,6 @@
 # Introduction to Probability and Statistics
 
-Codes for report of Introduction to Probability and Statistics.
+Codes for the report of Introduction to Probability and Statistics.
 
 ## Notice
 
